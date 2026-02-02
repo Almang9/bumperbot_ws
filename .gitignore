@@ -1,0 +1,9 @@
+.vscode/*
+frames^
+log/
+settings.json
+build/
+install/
+c_cpp_properties.json
+.vscode/c_cpp_properties.json
+.vscode/settings.json

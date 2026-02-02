@@ -29,7 +29,7 @@
         <kp>1000000.0</kp>
         <kd>100</kd>
         <minDepth>0.001</minDepth>
-        <maxVel>0.1</maxVel>
+        <maxVel>1.0</maxVel>
     </gazebo>
 
     <gazebo reference="caster_rear_link">
@@ -38,7 +38,7 @@
         <kp>1000000.0</kp>
         <kd>100</kd>
         <minDepth>0.001</minDepth>
-        <maxVel>0.1</maxVel>
+        <maxVel>1.0</maxVel>
     </gazebo>
 
     <gazebo>
